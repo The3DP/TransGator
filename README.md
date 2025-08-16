@@ -1,5 +1,5 @@
-# TransLator
-TransLator is a simple code translator, always at the ready.
+# TransGator
+TransGator is a simple code translator, always at the ready.
 # Notes:
 This HTML demo uses simple pattern replacements and only supports a few language pairs. 
 Real code translation requires advanced parsing and AI. 
